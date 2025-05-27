@@ -69,6 +69,12 @@ sistemaPizzaria/
 
 ---
 
+## 📁 Link do Projeto
+
+https://www.mediafire.com/file/mj6lihuai1ggxqc/sistemaPizzaria.zip/file
+
+---
+
 ## 🌐 Descrição das Páginas (na pasta `templates/`)
 
 ### 🏠 home.html
