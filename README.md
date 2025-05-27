@@ -63,9 +63,9 @@ sistemaPizzaria/
 
 ├── verpedido.html
 
-└── relatorio.html
+├── relatorio.html
 
-├── design/                 # Imagens do protótipo e telas do sistema
+└── design/                 # Imagens do protótipo e telas do sistema
 
 ---
 
