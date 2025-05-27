@@ -45,25 +45,25 @@ sistemaPizzaria/
 
 ├── templates/              # Páginas HTML com Jinja2
 
-│   ├── home.html
+├── home.html
 
-│   ├── cardapio.html
+├── cardapio.html
 
-│   ├── carrinho.html
+├── carrinho.html
 
-│   ├── cadastro.html
+├── cadastro.html
 
-│   ├── login.html
+├── login.html
 
-│   ├── pedido.html
+├── pedido.html
 
-│   ├── pedidomanual.html
+├── pedidomanual.html
 
-│   ├── relatorios.html
+├── relatorios.html
 
-│   ├── verpedido.html
+├── verpedido.html
 
-│   └── relatorio.html
+└── relatorio.html
 
 ├── design/                 # Imagens do protótipo e telas do sistema
 
