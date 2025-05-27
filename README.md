@@ -237,7 +237,7 @@ A aplicação foi estruturada com organização de templates, uso de Bootstrap p
 
 - Login com autenticação de usuários,
 
-D- ashboard de vendas e métricas,
+- Dashboard de vendas e métricas,
 
 - Integração com serviços de entrega.
 
