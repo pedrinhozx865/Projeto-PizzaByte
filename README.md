@@ -181,7 +181,7 @@ Siga os passos abaixo para rodar o sistema localmente:
 
 1. Clone o Repositório
 
-git clone https://github.com/seu-usuario/sistemaPizzaria.git
+git clone [https://github.com/seu-usuario/sistemaPizzaria.git](https://github.com/pedrinhozx865/Projeto-PizzaByte.git)
 cd sistemaPizzaria
 
 2. Crie e Ative um Ambiente Virtual
